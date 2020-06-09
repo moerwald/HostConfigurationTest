@@ -15,8 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="appsettings_abc.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <None Update="hostsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 
